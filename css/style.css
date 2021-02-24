@@ -36,7 +36,7 @@ header{
 header .logo-emp .img{
 	width: 200px;
 	height: 80px;
-	background-image: url(../_img/logo-one.png);
+	background-image: url(../img/logo-one.png);
 	background-repeat: no-repeat;
 	background-size: 80px 80px;
 	background-position: 50% center;
@@ -73,7 +73,7 @@ section .cover-form{
 	height: 600px;
 	background-position: center;
 	background-size: cover;
-	background-image: url(../_img/bg-form.jpg);
+	background-image: url(../img/bg-form.jpg);
 	
 }
 
@@ -149,7 +149,7 @@ section.chamada{
 	width: 54px;
 	height: 54px;
 	background-size: 100% 100%;
-	background-image: url(../_img/arrow.png);
+	background-image: url(../img/arrow.png);
 }
 
 section.chamada .container{
